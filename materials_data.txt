@@ -1,0 +1,9 @@
+2, Deacon King Kong, James McBride, 2019, 3 
+9, The Return, Nicholas Sparks, 2020, 1
+15, The Vanishing Half, Brit Bennett, 2020, 1
+17, The Midnight Library, Matt Haig, 2020, 2
+19, The Invisible Life, Addie Larue, 2020, 3 
+20, The Russian, James Patterson, 2020, 2
+21, Neighbours, Danielle Steel, 2020, 1
+22, Harry Potter: Chamber of Secrets, J. K. Rowling, 2007, 5
+35, The Da Vinci Code, Dan Brown, 2020, 1
